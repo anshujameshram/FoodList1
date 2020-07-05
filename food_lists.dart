@@ -106,6 +106,7 @@ class FoodCards extends StatelessWidget {
                                     color: Colors.white,
                                     fontWeight: FontWeight.bold,
                                   )),
+                              SizedBox(width:4),
                               Icon(
                                 Icons.star,
                                 size: 18,
